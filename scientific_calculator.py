@@ -4,7 +4,7 @@ import math   # import the module math for the scientific calculator
 
 root = Tk() 
 root.title("Scientific Calculator") # name of the app
-root.geometry("400x400")  # to give size to the app
+root.geometry("400x400")  # to give size to the apps
 root.configure(background = 'brown') # background of the app
  
 calc = Frame(root)
